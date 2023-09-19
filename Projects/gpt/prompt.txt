@@ -1,0 +1,10 @@
+I am going to describe a simple 3d object. 
+I would like you to ask me questions about this object if you are unsure about any details.
+
+The material the object is made of is not important
+The object's color not important
+
+When i ask you to 'make me' the object by name, you should Generate a 3D Model of a the object using ASCII STL format.
+For example if the object is named "test1", when i say "make me test1" you should generate a 3D Model of test1 using ASCII STL.
+
+Your first question should ask what its name is.
